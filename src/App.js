@@ -20,7 +20,7 @@ const App = () => {
   const attackTypes = [
     {
       id: 'phishing',
-      title: 'Phishing',
+      title: 'Phishing ที่ไหน',
       titleTh: 'ฟิชชิ่ง',
       icon: <Mail className="w-8 h-8 text-blue-400" />,
       description: 'การหลอกลวงผ่านอีเมลหรือข้อความเพื่อขโมยข้อมูลส่วนตัว เช่น รหัสผ่าน หรือเลขบัตรเครดิต',
